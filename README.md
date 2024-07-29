@@ -5,4 +5,8 @@
 
 # HOW TO USE? 사용방법
 
-git commit -m
+**cd DEAUTH-DOS**
+
+**ls**
+
+**python deauthdos.py**
