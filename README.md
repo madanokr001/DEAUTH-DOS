@@ -5,4 +5,4 @@
 
 # HOW TO USE? 사용방법
 
-git cd
+# cd
