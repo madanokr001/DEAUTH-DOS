@@ -10,3 +10,6 @@
 **ls**
 
 **python deauthdos.py**
+
+# ENJOY !!
+**thankyou**
